@@ -12,7 +12,7 @@ For each category, samples are divided based on the posture and movement of the 
 
 ### Data Files
 
-| Filename                     | Description                       | Samples |
+| Filename                     | Description                       |Approximate Samples (+- 1000 samples)|
 |-----------------------------|-----------------------------------|---------|
 | `helmet.csv`                | Base dataset with no sub-label    | 10,000  |
 | `no_helmet.csv`             | Base dataset with no sub-label    | 10,000  |
